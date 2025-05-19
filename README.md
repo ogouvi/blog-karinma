@@ -840,3 +840,7 @@ Important notes:
   ​
 
 Author: [pxlsyl](https://pxlsyl.art)
+
+
+
+node scripts/compose.js en 'Conference Annuelle Edition 1'
